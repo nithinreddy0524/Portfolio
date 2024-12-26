@@ -1827,9 +1827,6 @@ footer {
     }
 }
 
-
-
-
 /* Styles for screen widths greater than or equal to 798px and less than or equal to 1147px */
 @media (min-width: 798px) and (max-width: 1147px) {
     .contact-img img {
@@ -1844,8 +1841,13 @@ footer {
         width: 100%;
         height: 100%;
     }
-  
 }
+@media (max-width: 798px) {
+    .resume{
+        flex-direction: column;
+    }
+}
+
 .effect:hover
 {
 color: #d6d324;
