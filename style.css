@@ -95,7 +95,6 @@ section {
 
 .greet .about {
     font-size: 28px;
-    opacity: 0.7;
     color: white;
 }
 
@@ -340,7 +339,6 @@ footer {
 }
 
 .pro-greet p {
-    opacity: 0.7;
     font-size: 20px;
     font-weight: 500;
     margin: 24px auto;
@@ -430,7 +428,6 @@ footer {
 
 .contact-detail p {
     font-size: 24px;
-    opacity: 0.6;
     margin-top: 30px;
     padding: 8px;
 }
@@ -468,7 +465,6 @@ footer {
 .adr {
     font-size: 24px;
     margin-top: 12px;
-    opacity: 0.7;
 }
 
 .map a {
@@ -1851,6 +1847,10 @@ footer {
   
 }
 .effect:hover
+{
+color: #d6d324;
+}
+.effect:focus
 {
 color: #d6d324;
 }
