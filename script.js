@@ -59,3 +59,13 @@ function openLink3(){
     window.open(url,"_blank")
 }
 
+function openLink4(){
+    const url="https://plantodo.vercel.app/"
+    window.open(url,"_blank")
+}
+
+function openLink5(){
+    const url="https://classictictactoe.vercel.app/"
+    window.open(url,"_blank")
+}
+
