@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 function openLink(){
-    const url="https://itsmepizza.vercel.app/"
+    const url="https://gopizza.vercel.app/"
     window.open(url,"_blank")
 }
 
