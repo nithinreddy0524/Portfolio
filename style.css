@@ -25,7 +25,7 @@ body {
     font-weight: bold;
     font-family: "Playwrite NL", cursive;
     margin: 8px;
-    color: #d6d324;
+    color: #ffffff;
 }
 
 #main-content {
@@ -364,6 +364,9 @@ footer {
     width: 30%;
     margin-bottom: 32px;
     padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .project-card .pro:hover {
